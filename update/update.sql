@@ -8,3 +8,11 @@ SELECT * FROM students
 UPDATE students
 SET name = "Koli", age =26
 WHERE id =1
+
+UPDATE students
+SET name = "Zahid Hasan Milu", age=28
+WHERE name="Zahid Hasan"
+
+UPDATE students
+SET name = "Khadiza Rimi", age=21
+WHERE name="Tomalika"
